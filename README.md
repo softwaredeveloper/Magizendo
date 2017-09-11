@@ -1,7 +1,7 @@
 # PHPCodeSniffer standards for Magento
 
 ## Magento 1 standard combines Ecg and Zend standards into one
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 ## Magento 2 standard combines EcgM2 and PSR2 standards
 
 ### Usage
